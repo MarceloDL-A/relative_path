@@ -1,0 +1,7 @@
+setup.py
+src/local_scripts/__init__.py
+src/local_scripts/datasets_loader.py
+src/local_scripts.egg-info/PKG-INFO
+src/local_scripts.egg-info/SOURCES.txt
+src/local_scripts.egg-info/dependency_links.txt
+src/local_scripts.egg-info/top_level.txt
